@@ -1,10 +1,11 @@
-# autocomplete
+# Autocomplete
 
-> A Vue.js project
-
-## Build Setup
+### Setup
 
 ``` bash
+# install vue-cli
+npm install -g vue-cli
+
 # install dependencies
 npm install
 

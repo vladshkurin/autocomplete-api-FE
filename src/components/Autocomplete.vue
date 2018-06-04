@@ -20,7 +20,7 @@
 
     methods: {
       getData(obj){
-        debugger;
+        console.log(obj);
       }
     }
   };
